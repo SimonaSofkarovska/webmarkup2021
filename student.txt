@@ -1,0 +1,4 @@
+Student name: Simona Sofkarovska
+Student number: 675351
+Student class: IT2A
+URL student Github repository: 
